@@ -1,0 +1,8 @@
+eksdm_balance.reportdate,eksdm_balance.coa_num_1_3,eksdm_balance.coa_num_4_2,eksdm_balance.coa_num_6_3,eksdm_balance.coa_num_14_2,eksdm_balance.coa_num_16_2,eksdm_balance.amountccy,eksdm_balance.amountrub,eksdm_balance.ctl_loading,eksdm_balance.ctl_src_id
+STRING,STRING,STRING,STRING,STRING,STRING,DECIMAL,DECIMAL,INT,INT
+2018-03-18,301,10,810,00,46,-1100,-1100,0,10
+2018-03-18,964,01,810,00,89,2100,2100,0,10
+2018-03-18,999,96,978,00,76,-1000,-1000,0,10
+2018-03-18,407,02,978,00,48,2000,2000,0,10
+2018-03-18,301,02,978,00,79,-3000,-3000,0,10
+2018-03-18,312,01,978,00,54,1000,1000,0,10

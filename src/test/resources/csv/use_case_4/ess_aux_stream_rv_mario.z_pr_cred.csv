@@ -1,0 +1,7 @@
+z_pr_cred.id,z_pr_cred.c_depart,z_pr_cred.ctl_src_id,z_pr_cred.ctl_loading,z_pr_cred.ctl_pa_loading,z_pr_cred.ctl_action,z_pr_cred.ctl_validfrom
+BIGINT,BIGINT,INT,INT,INT,STRING,STRING
+1,1001,10,1,null,I,2018-03-31 00:00:00.0
+2,1006,10,3,null,U,2018-04-02 00:00:00.0
+3,1003,10,1,null,I,2018-03-31 00:00:00.0
+4,1003,10,2,null,I,2018-04-01 00:00:00.0
+5,1003,10,2,null,I,2018-04-01 00:00:00.0

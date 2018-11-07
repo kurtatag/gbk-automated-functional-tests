@@ -1,0 +1,7 @@
+t_productparty_bt.ctl_objectid,t_productparty_bt.ctl_gregor_dt,t_productparty_bt.division_id,t_productparty_bt.contract_id,t_productparty_bt.ctl_start_dt,t_productparty_bt.ctl_end_dt,t_productparty_bt.ctl_action,t_productparty_bt.ctl_datechange,t_productparty_bt.ctl_src_id,t_productparty_bt.ctl_loading
+BIGINT,STRING,BIGINT,BIGINT,STRING,STRING,STRING,STRING,INT,INT
+1,2018-04-02,null,19,2000-01-01,2009-12-31,U,2018-08-02,10,5
+2,2018-04-02,1006,20,2000-01-01,2999-12-31,U,2018-08-02,10,3
+3,2018-04-02,1003,21,2001-01-01,2018-04-02,U,2018-08-02,10,4
+4,2018-04-01,1003,23,null,null,U,2018-08-02,10,6
+5,2018-04-01,1003,24,2018-04-01,2999-12-31,I,2018-08-02,10,2
